@@ -44,7 +44,7 @@ flag ：INFOSECFLAGISMORSING
 flag：CTF{Hel10WorLD123}
 
 ### 3rd
-解題過程：
+解題過程：連伺服器→找第三大的數字→回傳答案
 
 
 ![](https://github.com/Stellalalalala/python20210425/blob/main/3rddd.png)
@@ -53,8 +53,7 @@ flag：CTF{Hel10WorLD123}
 flag：CTF{yoUaReInth33RdpL4c3}
 
 ### count
-解題過程：
-
+解題過程：連伺服器→寫回答一題的算法→ for迴圈重複執行回答100題
 
 ![](https://github.com/Stellalalalala/python20210425/blob/main/count_terminal.png)
 ![](https://github.com/Stellalalalala/python20210425/blob/main/countpy.png)
