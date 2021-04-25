@@ -11,7 +11,7 @@ flag ：QnJlYWthbGxDVEZ7aGFwcHloYWNraW5naGlnaGhhYWhhfQ==
 
 flag ：BreakALLCTF{53usZQ3hWW25dchZ7dXe}
 
-### Ascii
+### ASCII
 解題過程：運用線上工具 https://www.dcode.fr/ascii-code
 
 ![](https://github.com/Stellalalalala/python20210425/blob/main/ASCII.png)
